@@ -1,0 +1,16 @@
+{
+  "name": "cli-todolist",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "bin": {
+    "task-cli": "./src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
