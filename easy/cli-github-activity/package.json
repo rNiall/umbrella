@@ -1,0 +1,19 @@
+{
+  "name": "cli-github",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "bin": {
+    "github-activity": "./src/index.ts"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
