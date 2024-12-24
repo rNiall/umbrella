@@ -20,6 +20,10 @@ Welcome to my collection of pet projects! This repository contains various codin
    - [Problem Statement](https://roadmap.sh/projects/expense-tracker)
    - [Solution](https://github.com/rNiall/umbrella/tree/main/easy/cli-expense-tracker/)
 
+2. **CLI Expense Tracker**
+   - [Problem Statement](https://roadmap.sh/projects/number-guessing-game)
+   - [Solution](https://github.com/rNiall/umbrella/tree/main/easy/cli-guessing-game/)
+
 ### Medium Projects
 
 ### Hard Projects

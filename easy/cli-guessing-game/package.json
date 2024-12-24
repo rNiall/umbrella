@@ -1,0 +1,24 @@
+{
+  "name": "cli-guessing-game",
+  "version": "1.0.0",
+  "bin": {
+    "guess-game": "./dist/index.js"
+  },
+  "main": "./src/index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "rNiall",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@inquirer/input": "^4.1.1",
+    "@inquirer/select": "^4.0.4",
+    "chalk": "^5.4.1"
+  }
+}
