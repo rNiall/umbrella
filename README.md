@@ -14,7 +14,7 @@ Welcome to my collection of pet projects! This repository contains various codin
 
 1. **CLI Task Tracker**
    - [Problem Statement](https://roadmap.sh/projects/task-tracker)
-   - [Solution](https://github.com/rNiall/umbrella/tree/main/easy/CLI-TODOLIST/)
+   - [Solution](https://github.com/rNiall/umbrella/tree/main/easy/cli-task-tracker/)
 
 ### Medium Projects
 
