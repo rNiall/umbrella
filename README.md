@@ -28,6 +28,9 @@ Welcome to my collection of pet projects! This repository contains various codin
    - [Problem Statement](https://roadmap.sh/projects/github-user-activity)
    - [Solution](https://github.com/rNiall/umbrella/tree/main/easy/cli-github-activity/)
 
+5. **Weather API**
+   - [Problem Statement](https://roadmap.sh/projects/weather-api-wrapper-service)
+   - [Solution](https://github.com/rNiall/umbrella/tree/main/easy/weather-api/)
 ### Medium Projects
 
 ### Hard Projects
